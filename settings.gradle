@@ -1,0 +1,6 @@
+rootProject.name = 'spring-boot-fundamentals'
+
+include 'webapi'
+include 'custom-service'
+include 'custom-service-starter'
+
